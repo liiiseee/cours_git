@@ -8,6 +8,7 @@ public class Utilisateur {
 	/*_______________________________props________________________________*/
 	private int id;
 	private String nom;
+	private String prenom;
 	
 
 	/*_______________________________ctors________________________________*/
